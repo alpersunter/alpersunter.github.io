@@ -32,7 +32,7 @@ instagram_username: dubbing.isnotsorcery
 linkedin_username: alpersunter
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
