@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Engineering is holy, but it is not sorcery.
   Welcome to the land of understanding.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://isnotsorcery.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://isnotsorcery.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LogoStartup
 github_username:  alpersunter
 youtube_username: channel/UCLmoQTi1IQMswSAx52l9YZw
@@ -32,7 +32,7 @@ instagram_username: dubbing.isnotsorcery
 linkedin_username: alpersunter
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
