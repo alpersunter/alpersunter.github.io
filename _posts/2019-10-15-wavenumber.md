@@ -369,6 +369,7 @@ $$ z(\vec r) = \sin(\vec k \cdot \vec r)$$
 $$ z(\vec r) = \sin( \color{purple}{(\lVert \vec k \rVert)} \color{green}{(\text{Magnitude of the projection of } \vec r \text{ onto } \vec k)})$$
 
 $$ z(\vec r) = \sin(\color{purple}{k}\color{green}{(\text{Magnitude of the projection of } \vec r \text{ onto } \vec k)})$$
+
 $$ z(\vec r) = \sin(\color{purple}{ \frac{2\pi}{\lambda}}\color{green}{(\text{Magnitude of the projection of } \vec r \text{ onto } \vec k)})$$
 
 >Meanwhile 1D waves: 
@@ -387,7 +388,7 @@ Reason for the use of "dot" operation is only to be able to make use of 1D wave 
 
 # Oof. Finally.
 
-It want to believe that after my 15 days of effort, you know what a wavevector or wavenumber is. Thank you for your participation.
+I want to believe that after my 15 days of effort, you know what a wavevector or wavenumber is. Thank you for your participation.
 
 if you need any help or you think you have a suggestion feel free to mail me: alpersunter1@gmail.com
 
