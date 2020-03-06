@@ -366,10 +366,10 @@ This is my favorite! We first downgrade our 2D or 3D problem into 1D, and then s
 
 $$ z(\vec r) = \sin(\vec k \cdot \vec r)$$
 
-$$ z(\vec r) = \sin( \color{purple}{(\lVert \vec k \rVert)} \color{green}{(\text{Projection of } \vec r \text{ onto } \vec k)})$$
+$$ z(\vec r) = \sin( \color{purple}{(\lVert \vec k \rVert)} \color{green}{(\text{Magnitude of the projection of } \vec r \text{ onto } \vec k)})$$
 
-$$ z(\vec r) = \sin(\color{purple}{k}\color{green}{(\text{Projection of } \vec r \text{ onto } \vec k)})$$
-$$ z(\vec r) = \sin(\color{purple}{ \frac{2\pi}{\lambda}}\color{green}{(\text{Projection of } \vec r \text{ onto } \vec k)})$$
+$$ z(\vec r) = \sin(\color{purple}{k}\color{green}{(\text{Magnitude of the projection of } \vec r \text{ onto } \vec k)})$$
+$$ z(\vec r) = \sin(\color{purple}{ \frac{2\pi}{\lambda}}\color{green}{(\text{Magnitude of the projection of } \vec r \text{ onto } \vec k)})$$
 
 >Meanwhile 1D waves: 
 >
